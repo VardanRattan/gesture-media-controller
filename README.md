@@ -138,5 +138,5 @@ This project is licensed under the MIT [License](https://github.com/VardanRattan
 ---
 
 ## Acknowledgments 🙌
-- ]BleKeyboard Library](https://github.com/T-vK/ESP32-BLE-Keyboard) by T-vK
+- [BleKeyboard Library](https://github.com/T-vK/ESP32-BLE-Keyboard) by T-vK
 - Thanks to the open-source community for inspiration and resources
